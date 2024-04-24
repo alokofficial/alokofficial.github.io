@@ -30,7 +30,7 @@ https://alokofficial.github.io/
 3. Run `npm install` to install the project dependencies.
 
 ## Usage
-1. After the installation, run `npm start dev` to start the development server.
+1. After the installation, run `npm run dev` to start the development server.
 2. Open your web browser and go to `http://localhost:3000` to view the portfolio.
 3. Explore the different sections to learn more about me, view my projects, and find my contact information.
 4. Fill out the contact form to get in touch with me directly.
