@@ -2,7 +2,6 @@ import React from "react";
 import shoppingCart from "../assets/projects/shopping-cart-home.png";
 import planWithMe from "../assets/projects/plan-with-me-react.png";
 import studyNotion from "../assets/projects/studynotion-signup-page.png";
-import testimonials from "../assets/projects/testimonials-react.png";
 import topCourses from "../assets/projects/top-courses-react.png";
 import cryptoTracker from "../assets/projects/crypto-tracker.png";
 
